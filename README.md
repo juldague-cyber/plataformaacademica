@@ -6,7 +6,7 @@ Proyecto realizado para el taller de Git y GitHub.
 
 Integrantes
 Tu Nombre
-Jorge Luis Garzon parada
+Jorge Luis Garzon Parada
 Julian David Guerrero Lizarazo
 
 
